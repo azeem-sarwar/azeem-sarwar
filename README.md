@@ -19,7 +19,7 @@
 - 👯 I’m looking to collaborate on innovative tech projects, especially in the energy transition and IoT spaces.
 - 💬 Ask me about React, React Native, Node.js, IoT, and how these technologies can drive impactful solutions.
 - ⚡ Fun-Fact: I hold a Bachelor's degree in Software Engineering and a gold medal with a CGPA of 3.92/4.00.
-- 📫 How to reach me: as1265513@gmail.com
+- 📫 How to reach me: azeemsarwarr1@gmail.com
 
 <img height="200" align="right" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png">
 <img height="200" align="right"  src="https://raw.githubusercontent.com/github/explore/59009b1589a883459c0ae19044e3e7e3ec0c4e0a/topics/javascript/javascript.png">
